@@ -1,6 +1,6 @@
 # Valentine's Day Interactive Website (CodeKage)
 
-Thank you to [@mewtru](https://instagram.com/mewtru) for the video idea!
+Thank you to [@mewtru](https://github.com/mashedpuree/Ask-out-your-Valentine/releases) for the video idea!
 
 This code was completely created from scratch! utilising Tailwind CSS!
 
@@ -23,9 +23,9 @@ Make this Valentine's Day unforgettable with a charming and interactive web expe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CodeKageHQ/Ask-out-your-Valentine
+   git clone https://github.com/mashedpuree/Ask-out-your-Valentine/releases
    ```
-3. Open ```index.html``` in your browser to view the website.
+3. Open ```https://github.com/mashedpuree/Ask-out-your-Valentine/releases``` in your browser to view the website.
 
 No additional setup is required, as Tailwind CSS is included via CDN and JavaScript is embedded within the HTML.
 
@@ -34,7 +34,7 @@ No additional setup is required, as Tailwind CSS is included via CDN and JavaScr
 - HTML5
 - Tailwind CSS
 - JavaScript
-- [canvas-confetti](https://www.npmjs.com/package/canvas-confetti) for the confetti effect
+- [canvas-confetti](https://github.com/mashedpuree/Ask-out-your-Valentine/releases) for the confetti effect
 
 ## Contributions
 
